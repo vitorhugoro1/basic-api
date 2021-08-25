@@ -1,5 +1,6 @@
 {
     "require": {
+        "php": "^8.0",
         "league/container": "^4.1",
         "league/route": "^5.1",
         "laminas/laminas-diactoros": "^2.6",
